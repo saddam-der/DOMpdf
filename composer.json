@@ -1,0 +1,15 @@
+{
+    "name": "warungbelajar/belajar-composer",
+    "description": "Untuk Kebutuhan Belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Saddam Dermawan",
+            "email": "saddam.dermawan@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
